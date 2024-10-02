@@ -23,7 +23,6 @@
     {"name": "Afghanistan"},
     {"name": "Albania"},
     {"name": "Algeria"},
-    ...
 ]
 ```
 
