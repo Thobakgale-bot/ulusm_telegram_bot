@@ -49,13 +49,13 @@ Start the bot: Users must begin interaction by sending the /start command. This 
 
 Available Commands:
 
-`/start:` Initializes the conversation and unlocks other commands.
-`/help:` Displays a list of available commands and descriptions.
-`/content: `Provides information about services offered by the bot.
-`/contact:` Displays contact details for the bot admin.
-`/gateways:` Lists supported payment gateways.
-`/rules:` Shows the rules and policies of the bot.
-`/join_group:` Prompts the user for their country to check if they're eligible for group entry.
+-`/start:` Initializes the conversation and unlocks other commands.
+-`/help:` Displays a list of available commands and descriptions.
+-`/content: `Provides information about services offered by the bot.
+-`/contact:` Displays contact details for the bot admin.
+-`/gateways:` Lists supported payment gateways.
+-`/rules:` Shows the rules and policies of the bot.
+-`/join_group:` Prompts the user for their country to check if they're eligible for group entry.
 Poll to Join Group: After providing their country using /join_group, users will be presented with a poll asking if they would like to join the group. If they answer "Yes" and meet the eligibility criteria, a one-time invite link will be generated.
 
 Users from South American countries are ineligible to join.
