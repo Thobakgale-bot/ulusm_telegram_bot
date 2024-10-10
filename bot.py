@@ -10,6 +10,7 @@ GROUP_ID = os.getenv("GROUP_ID")
 GROUP_NAME = os.getenv("GROUP_NAME")  
 
 # A list of South American countries (not eligible)
+# This can be modified according to your liking this was an example 
 SOUTH_AMERICAN_COUNTRIES = [
     'Argentina', 'Bolivia', 'Brazil', 'Chile', 'Colombia',
     'Ecuador', 'Guyana', 'Paraguay', 'Peru', 'Suriname',
